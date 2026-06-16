@@ -78,8 +78,6 @@ python main.py
 
 depending on your Python installation.
 
-On my laptop, the simulation takes approximately **one minute** to complete. More powerful hardware should produce faster execution times.
-
 ---
 
 ## Current Limitations
